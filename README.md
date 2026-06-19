@@ -32,7 +32,7 @@
   <a href="https://github.com/prince-721">
     <img src="https://img.shields.io/badge/GitHub-prince--721-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:princekumarsingh7214@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
 </p>
